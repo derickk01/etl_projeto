@@ -17,6 +17,8 @@ Estrutura do Projeto:
  requirements.txt: lista das bibliotecas Python usadas.
 
 Tecnologias usadas:
-Python 3 
-Pandas
-Requests
+Python 3 <br> 
+Pandas <br>
+Requests <br>
+Unicodedata <br>
+Re 
