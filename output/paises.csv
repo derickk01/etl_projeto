@@ -1,0 +1,194 @@
+codigo_pais,nome_pais,nome_transformado
+4,Afeganistão,afeganistao
+8,Albânia,albania
+12,Argélia,argelia
+20,Andorra,andorra
+24,Angola,angola
+28,Antígua e Barbuda,antigua-e-barbuda
+31,Azerbaijão,azerbaijao
+32,Argentina,argentina
+36,Austrália,australia
+40,Áustria,austria
+44,Bahamas,bahamas
+48,Barein,barein
+50,Bangladesh,bangladesh
+51,Armênia,armenia
+52,Barbados,barbados
+56,Bélgica,belgica
+64,Butão,butao
+68,Bolívia (Estado Plurinacional da),bolivia-estado-plurinacional-da
+70,Bósnia e Herzegovina,bosnia-e-herzegovina
+72,Botsuana,botsuana
+76,Brasil,brasil
+84,Belize,belize
+90,Ilhas Salomão,ilhas-salomao
+96,Brunei,brunei
+100,Bulgária,bulgaria
+104,Mianmar,mianmar
+108,Burundi,burundi
+112,Belarus,belarus
+116,Camboja,camboja
+120,Camarões,camaroes
+124,Canadá,canada
+132,Cabo Verde,cabo-verde
+140,República Centro-Africana,republica-centro-africana
+144,Sri Lanka,sri-lanka
+148,Chade,chade
+152,Chile,chile
+156,China,china
+170,Colômbia,colombia
+174,Comores,comores
+178,Congo,congo
+180,República Democrática do Congo,republica-democratica-do-congo
+188,Costa Rica,costa-rica
+191,Croácia,croacia
+192,Cuba,cuba
+196,Chipre,chipre
+203,República Tcheca,republica-tcheca
+204,Benin,benin
+208,Dinamarca,dinamarca
+212,Dominica,dominica
+214,República Dominicana,republica-dominicana
+218,Equador,equador
+222,El Salvador,el-salvador
+226,Guiné Equatorial,guine-equatorial
+231,Etiópia,etiopia
+232,Eritreia,eritreia
+233,Estônia,estonia
+242,Fiji,fiji
+246,Finlândia,finlandia
+250,França,franca
+262,Djibouti,djibouti
+266,Gabão,gabao
+268,Geórgia,georgia
+270,Gâmbia,gambia
+276,Alemanha,alemanha
+288,Gana,gana
+296,Kiribati,kiribati
+300,Grécia,grecia
+308,Granada,granada
+320,Guatemala,guatemala
+324,Guiné,guine
+328,Guiana,guiana
+332,Haiti,haiti
+340,Honduras,honduras
+348,Hungria,hungria
+352,Islândia,islandia
+356,Índia,india
+360,Indonésia,indonesia
+364,Irã (República Islâmica do),ira-republica-islamica-do
+368,Iraque,iraque
+372,Irlanda,irlanda
+376,Israel,israel
+380,Itália,italia
+384,Costa do Marfim,costa-do-marfim
+388,Jamaica,jamaica
+392,Japão,japao
+398,Cazaquistão,cazaquistao
+400,Jordânia,jordania
+404,Quênia,quenia
+408,República Popular Democrática da Coreia,republica-popular-democratica-da-coreia
+410,República da Coreia,republica-da-coreia
+414,Kuwait,kuwait
+417,Quirguistão,quirguistao
+418,República Democrática Popular do Laos,republica-democratica-popular-do-laos
+422,Líbano,libano
+426,Lesoto,lesoto
+428,Letônia,letonia
+430,Libéria,liberia
+434,Líbia,libia
+438,Liechtenstein,liechtenstein
+440,Lituânia,lituania
+442,Luxemburgo,luxemburgo
+450,Madagascar,madagascar
+454,Malauí,malaui
+458,Malásia,malasia
+462,Maldivas,maldivas
+466,Mali,mali
+470,Malta,malta
+478,Mauritânia,mauritania
+480,Maurício,mauricio
+484,México,mexico
+492,Mônaco,monaco
+496,Mongólia,mongolia
+498,Moldávia (República da),moldavia-republica-da
+499,Montenegro,montenegro
+504,Marrocos,marrocos
+508,Moçambique,mocambique
+512,Omã,oma
+516,Namíbia,namibia
+520,Nauru,nauru
+524,Nepal,nepal
+528,Holanda,holanda
+548,Vanuatu,vanuatu
+554,Nova Zelândia,nova-zelandia
+558,Nicarágua,nicaragua
+562,Niger,niger
+566,Nigéria,nigeria
+578,Noruega,noruega
+583,Micronésia (Estados Federados da),micronesia-estados-federados-da
+584,Ilhas Marshall,ilhas-marshall
+585,Palau,palau
+586,Paquistão,paquistao
+591,Panamá,panama
+598,Papua Nova Guiné,papua-nova-guine
+600,Paraguai,paraguai
+604,Peru,peru
+608,Filipinas,filipinas
+616,Polônia,polonia
+620,Portugal,portugal
+624,Guiné-Bissau,guine-bissau
+626,Timor-Leste,timor-leste
+634,Catar,catar
+642,Romênia,romenia
+643,Federação da Rússia,federacao-da-russia
+646,Ruanda,ruanda
+659,São Cristóvão e Nevis,sao-cristovao-e-nevis
+662,Santa Lúcia,santa-lucia
+670,São Vicente e Granadinas,sao-vicente-e-granadinas
+674,San Marino,san-marino
+678,São Tomé e Príncipe,sao-tome-e-principe
+682,Arábia Saudita,arabia-saudita
+686,Senegal,senegal
+688,Sérvia,servia
+690,Seichelles,seichelles
+694,Serra Leoa,serra-leoa
+702,Singapura,singapura
+703,Eslováquia,eslovaquia
+704,Vietnã,vietna
+705,Eslovênia,eslovenia
+706,Somália,somalia
+710,África do Sul,africa-do-sul
+716,Zimbábue,zimbabue
+724,Espanha,espanha
+728,Sudão do Sul,sudao-do-sul
+729,Sudão,sudao
+740,Suriname,suriname
+748,Eswatini,eswatini
+752,Suécia,suecia
+756,Suíça,suica
+760,Síria,siria
+762,Tadjiquistão,tadjiquistao
+764,Tailândia,tailandia
+768,Togo,togo
+776,Tonga,tonga
+780,Trinidad e Tobago,trinidad-e-tobago
+784,Emirados Árabes Unidos,emirados-arabes-unidos
+788,Tunísia,tunisia
+792,Turquia,turquia
+795,Turcomenistão,turcomenistao
+798,Tuvalu,tuvalu
+800,Uganda,uganda
+804,Ucrânia,ucrania
+807,Macedônia do Norte,macedonia-do-norte
+818,Egito,egito
+826,Reino Unido da Grã-Bretanha e Irlanda do Norte,reino-unido-da-gra-bretanha-e-irlanda-do-norte
+834,"Tanzânia, República Unida da",tanzania-republica-unida-da
+840,Estados Unidos da América,estados-unidos-da-america
+854,Burkina Faso,burkina-faso
+858,Uruguai,uruguai
+860,Uzbequistão,uzbequistao
+862,Venezuela (República Bolivariana da),venezuela-republica-bolivariana-da
+882,Samoa,samoa
+887,Iêmen,iemen
+894,Zâmbia,zambia
